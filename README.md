@@ -17,7 +17,7 @@
 
 ## 📫 **Entre em Contato**
 - LinkedIn: [Seu LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/yasmin-vitoria-0b7b12216/))  
-- E-mail: seuemail@exemplo.com  
+- E-mail: yasminvitoria.dev@gmail.com
 
 ---
 
