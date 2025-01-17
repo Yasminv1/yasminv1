@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Olá, eu sou Yasmin!
+## 👋 Olá, eu sou Yasmin!
 
 🎓 **Estudante de Sistemas de Informação** no ENIAC (3º semestre).  
 💻 Apaixonada por desenvolvimento front-end e design de interfaces.  
