@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou Yasmin!
 
-🎓 **Estudante de Sistemas de Informação** no ENIAC (3º semestre).  
-💻 Apaixonada por desenvolvimento front-end e design de interfaces.  
-🌱 **Atualmente estudando:** JavaScript e React.  
+🎓 **Estudante de Sistemas de Informação** no ENIAC (4º semestre).  
+💻 Apaixonada por desenvolvimento de software e área de dados.
+🌱 **Atualmente estudando:** Power BI, Python e Angular.
 🔭 **Projetos em destaque:**  
 - [Meu Portfólio](https://github.com/Yasminv1/Portfolio)  
 
